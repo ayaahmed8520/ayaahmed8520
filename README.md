@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://peterhan.dev">👋 Hello World, I'm Aya Ahmed!</a></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FFCCBC&center=true&lines=+👋🏾+welcome+to+my+Github!"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FFCCBC&center=true&lines=+👋🏾+welcome+to+my+Github+Profile!"></a>
 </p>
 
 <br>
@@ -11,10 +11,11 @@
 
 <br>
 
-- A Passionate Self-taught Andriod App developer.
+- I'm Aya Ahmed from Egypt.
 - Faculty of Science Graduate, Department of Computer Science and Pure Mathematics, Al-Azhar University.
 - Currently, I'm Learning Mobile application development.
 - I also like JAVA and I'm exploring Front End development🐱‍💻.
+- I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Still learning.
 
 <br>
 
@@ -73,24 +74,25 @@
   <a href="https://www.linkedin.com/in/aya-ahmed">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   &nbsp;
+   <a href="mailto:ayaahmed75383@gmail.com">
+    <img alt="Contact me via Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/Gmail"></a>
   <a href="https://t.me/aya_ahmed654">
     <img alt="Contact me via Telegram" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/telegram"></a>
   &nbsp;
-  <a href="mailto:ayaahmed75383@gmail.com">
-    <img alt="Contact me via Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/Gmail"></a>
+  <a href="https://www.facebook.com/aya.ahmed">
+    <img alt="Contact me via FaceBook" title="FaceBook" height="48" width="48" src="https://cdn.simpleicons.org/Facebook"></a>
 </p>
 
 <p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayaahmed8520&label=Profile%20views&color=0e75b6&style=flat" alt="ayaahmed8520" /> </p>
 </p>
 
+<br>
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
 </p>
 
-
-
-
-
- 
+<p align="center">
+<img  src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+</p>
