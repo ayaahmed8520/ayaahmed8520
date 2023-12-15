@@ -71,7 +71,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/aya-ahmed">
+  <a href="https://www.linkedin.com/in/aya-ahmed-a6412620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   &nbsp;
    <a href="mailto:ayaahmed75383@gmail.com">
@@ -79,7 +79,7 @@
   <a href="https://t.me/aya_ahmed654">
     <img alt="Contact me via Telegram" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/telegram"></a>
   &nbsp;
-  <a href="https://www.facebook.com/aya.ahmed">
+  <a href="https://www.facebook.com/ayam.ali.1276">
     <img alt="Contact me via FaceBook" title="FaceBook" height="48" width="48" src="https://cdn.simpleicons.org/Facebook"></a>
 </p>
 
