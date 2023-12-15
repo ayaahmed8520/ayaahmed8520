@@ -12,14 +12,14 @@
 <br>
 
 - I'm Aya Ahmed from Egypt.
-- Faculty of Science Graduate, Department of Computer Science and Pure Mathematics, Al-Azhar University.
+- Faculty of Science, Pure Mathematics and Computer Science Department, Al-Azhar University.
 - Currently, I'm Learning Mobile application development.
 - I also like JAVA and I'm exploring Front End development🐱‍💻.
 - I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Still learning.
 
 <br>
 
-## 🛠  Technologies
+## 🛠  My Skills
 
 <a name="learning-now"></a>
 &nbsp; &nbsp;&nbsp;
@@ -79,8 +79,6 @@
   <a href="https://t.me/aya_ahmed654">
     <img alt="Contact me via Telegram" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/telegram"></a>
   &nbsp;
-  <a href="https://www.facebook.com/ayam.ali.1276">
-    <img alt="Contact me via FaceBook" title="FaceBook" height="48" width="48" src="https://cdn.simpleicons.org/Facebook"></a>
 </p>
 
 <p align="center">
