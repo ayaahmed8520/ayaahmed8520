@@ -76,6 +76,7 @@
   &nbsp;
    <a href="mailto:ayaahmed75383@gmail.com">
     <img alt="Contact me via Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/Gmail"></a>
+   &nbsp;
   <a href="https://t.me/aya_ahmed654">
     <img alt="Contact me via Telegram" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/telegram"></a>
   &nbsp;
