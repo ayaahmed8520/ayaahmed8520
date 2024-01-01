@@ -12,7 +12,7 @@
 <br>
 
 - I'm Aya Ahmed from Egypt.
-- Faculty of Science, Pure Mathematics and Computer Science Department, Al-Azhar University.
+- Faculty of Science, Al-Azhar University.
 - Currently, I'm Learning Mobile application development.
 - I also like JAVA and I'm exploring Front End development🐱‍💻.
 - I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Still learning.
